@@ -1,7 +1,7 @@
 👋 **Hola, soy Gonzalo Andrés Aguirre.**  
 *Soy un apasionado del mundo de los datos, enfocado en transformar manipular y visualizar informacion valiosa para la toma de decisiones estratégicas.* 
 
-👀 **Estoy perfeccionándome y mejorando permanentemente en el fascinante mundo de los datos e información valiosa.**  
+👀 **Estoy perfeccionándome y mejorando permanentemente en el fascinante mundo de los datos**. <br>
 *Mi objetivo es dominar las herramientas y técnicas más avanzadas para analizar, procesar y visualizar datos de manera efectiva.*  
 
 🌱 **Actualmente, me encuentro estudiando Data Analytics.**  
